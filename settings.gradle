@@ -1,0 +1,5 @@
+rootProject.name = 'allure-gradle-multi-module'
+
+include 'first-module'
+include 'second-module'
+

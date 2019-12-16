@@ -1,0 +1,7 @@
+test {
+    useTestNG()
+}
+
+dependencies {
+    compile project(":first-module")
+}
